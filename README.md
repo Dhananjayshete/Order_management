@@ -5,7 +5,7 @@ A production-ready, real-time order management system built with **Next.js**, **
 
 🌐 **Live Demo**: [tmbill-order-management.vercel.app](https://tmbill-order-management.vercel.app)  
 🔧 **Backend API**: Deployed on Render (https://tmbill-order-management.onrender.com)
-📦 **Repository**: [github.com/vishal-rathod-sketch/tmbill-order-management](https://github.com/vishal-rathod-sketch/tmbill-order-management)
+📦 **Repository**: (https://github.com/Dhananjayshete/Order_management.git)
 
 ---
 
@@ -133,7 +133,7 @@ Make sure you have these installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/vishal-rathod-sketch/tmbill-order-management.git
+git clone (https://github.com/Dhananjayshete/Order_management.git)
 cd tmbill-order-management
 ```
 
@@ -538,8 +538,8 @@ The entire codebase — frontend and backend — is written in **TypeScript**:
 
 ## 👤 Author
 
-**Vishal Rathod**  
-GitHub: [@vishal-rathod-sketch](https://github.com/vishal-rathod-sketch)
+**Dhananjay Shete**  
+GitHub: (https://github.com/Dhananjayshete/Order_management.git)
 
 ---
 
