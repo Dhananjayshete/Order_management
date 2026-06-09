@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 TMBill — Full Stack Order Management System
 
 A production-ready, real-time order management system built with **Next.js**, **Node.js/Express**, **PostgreSQL**, and **Socket.IO**.
@@ -543,3 +544,6 @@ GitHub: [@vishal-rathod-sketch](https://github.com/vishal-rathod-sketch)
 ---
 
 > Built as part of a Full Stack Developer Assessment — demonstrating clean architecture, real-time WebSocket capabilities, database optimization, and end-to-end production deployment.
+=======
+# Order_management
+>>>>>>> a6f45d24b83cd8f189dfe5a078e9b20101f10a0b
